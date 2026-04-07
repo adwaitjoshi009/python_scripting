@@ -20,17 +20,17 @@ Connects to a specific port and retrieves the service banner.
 
 ## ✨ Features
 
-* Basic error handling
-* Uses Python’s built-in `socket` module
-* Interactive input (no command-line arguments required)
-* Option to save scan results to a file
+- Basic error handling
+- Uses Python’s built-in `socket` module
+- Interactive input (no command-line arguments required)
+- Option to save scan results to a file
 
 ---
 
 ## 🛠️ Requirements
 
-* Python 3.x
-* No external libraries needed
+- Python 3.x
+- No external libraries needed
 
 ---
 
@@ -46,10 +46,11 @@ python port_scanner.py
 
 You will be prompted to enter:
 
-* Target IP address or hostname
-* Starting port
-* Ending port
-* Prompt question to save results
+- Target IP address or hostname
+- Starting port
+- Ending port
+- Prompt question to save results
+
 Example:
 
 ```text
@@ -82,8 +83,8 @@ python banner_grabber.py
 
 You will be prompted to enter:
 
-* Target IP address or hostname
-* Port number
+- Target IP address or hostname
+- Port number
 
 Example:
 
@@ -112,8 +113,8 @@ b'SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.3\r\n'
 
 > 🚨 This project is for educational purposes only.
 
-* Only use these scripts on systems you own or have permission to test.
-* Unauthorized port scanning or banner grabbing may be illegal.
+- Only use these scripts on systems you own or have permission to test.
+- Unauthorized port scanning or banner grabbing may be illegal.
 
 ---
 
