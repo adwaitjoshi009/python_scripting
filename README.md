@@ -101,10 +101,10 @@ b'SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.3\r\n'
 ## 📁 Project Structure
 
 ```text
-.
+network_tools
+│
 ├── port_scanner.py
-├── banner_grabber.py
-└── README.md
+└── banner_grabber.py
 ```
 
 ---
